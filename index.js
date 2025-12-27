@@ -5,7 +5,3 @@ function sayName(){
     console.log('My name is ' + name1)
 }
 const x = 5;
-
-function addnum(){
-    return 5+2;
-}
