@@ -10,3 +10,7 @@ function newfun(){
     console.log('I am new function');
     
 }
+
+function addnum(){
+    return 5+2;
+}
