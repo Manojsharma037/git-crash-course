@@ -14,3 +14,8 @@ function newfun(){
 function addnum(){
     return 5+2;
 }
+
+function newFeatureAdd(){
+    console.log('This is a new Feature');
+    
+}
